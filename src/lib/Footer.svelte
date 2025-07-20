@@ -14,7 +14,7 @@
     <div class="grid md:grid-cols-3 gap-8">
       <!-- Brand -->
       <div class="col-span-1">
-        <h3 class="text-2xl font-bold mb-4">Your Name</h3>
+        <h3 class="text-2xl font-bold mb-4">rise of monke</h3>
         <p class="text-gray-400 leading-relaxed">
           Full Stack Developer passionate about creating amazing digital experiences and bringing ideas to life through code.
         </p>
@@ -54,7 +54,7 @@
     <!-- Bottom Bar -->
     <div class="border-t border-gray-800 mt-8 pt-8 text-center">
       <p class="text-gray-400">
-        © {currentYear} Your Name. All rights reserved. Built with ❤️ using Svelte & Tailwind CSS.
+        © {currentYear} rise of monke. All rights reserved. Built with ❤️ using Svelte & Tailwind CSS.
       </p>
     </div>
   </div>

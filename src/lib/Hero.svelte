@@ -59,7 +59,7 @@
     {#if mounted}
       <div bind:this={heroTitle} class="opacity-0">
         <h1 class="text-5xl md:text-7xl font-bold text-white mb-6">
-          Hi, I'm <span class="text-yellow-300">Your Name</span>
+          Hi, I'm <span class="text-yellow-300">rise of monke</span>
         </h1>
       </div>
       

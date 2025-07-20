@@ -41,7 +41,7 @@
         >
           <div class="relative inline-block mb-8">
             <!-- Profile image -->
-            <img src="/monke-profile.png" alt="rise of monke profile" class="w-64 h-64 object-cover rounded-full mx-auto md:mx-0 shadow-2xl border-4 border-blue-400" />
+            <img src="./monke-profile.png" alt="rise of monke profile" class="w-64 h-64 object-cover rounded-full mx-auto md:mx-0 shadow-2xl border-4 border-blue-400" />
             <!-- Decorative elements -->
             <div class="absolute -top-4 -right-4 w-8 h-8 bg-yellow-400 rounded-full animate-bounce-slow"></div>
             <div class="absolute -bottom-4 -left-4 w-6 h-6 bg-pink-400 rounded-full animate-bounce-slow" style="animation-delay: 0.5s;"></div>
